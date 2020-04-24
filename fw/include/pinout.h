@@ -1,0 +1,2 @@
+#define SMARTLED_NUMBER 8
+#define SMARTLED_PIN 4
