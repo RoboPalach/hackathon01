@@ -9,7 +9,6 @@ Modul obsahuje pouze klávesnici 4x4. Čísla se zadávají hexadecimálně.
 Klávesnice 4x4 pro zadání čísel HEX soustavy.
 
 ### Popis zneškodnění
-<<<<<<< HEAD
 Správné zadání kódu se určuje podle sériového čílsa. Tento modul se *musí* vyřadit v určitém pořadí. Např. když je sériové číslo 0000, musí se modul vyřadit jako 1.
 
 #### Příklady
