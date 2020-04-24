@@ -1,1 +1,3 @@
-# hackathon01
+# Web folder
+
+Adresář určený pro web.
