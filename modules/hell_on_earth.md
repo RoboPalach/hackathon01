@@ -24,6 +24,7 @@ Jeden samostatný display může mít jeden z těchto malých vzorů:
 ![Pattern 2](images/char(8).png)
 ![Pattern 3](images/char(9).png)
 ![Pattern 4](images/char(48).png)
+![Pattern 5](images/char(6).png)
 ![Pattern 6](images/char(54).png)
 ![Pattern 7](images/char(112).png)
 ![Pattern 8](images/char(70).png)
