@@ -1,6 +1,6 @@
 # mainBox - Krabice
 
-** Jan Kalina **
+**Jan Kalina**
 
 ### Rychlé shrnutí
 	Hlavní box pro uložení modulů bomby, strukturální integritu a přívětivý design.
