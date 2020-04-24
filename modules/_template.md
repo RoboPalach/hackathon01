@@ -2,7 +2,7 @@
 
 **jmeno autora**
 
-### Rychlé schrnutí
+### Rychlé shrnutí
 
 ### Hardwarový popis
 
