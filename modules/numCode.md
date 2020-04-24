@@ -14,7 +14,7 @@ V návodu je (zatím není) uvedeno pro konkrétní výrovní číslo potřebné
 
 #### Příklady
 | Výrobní číslo | Číslo kroku kdy zadat | Co zadat |
-| -------- | -------- | -------- |
+| :-: | :-: | :-: |
 | 0000 | 1 | 65 535 |
 | 0000 | 6 | 48 832 |
 | 0001 | 5 | 43 981 |
