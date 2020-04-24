@@ -1,6 +1,6 @@
 # Peklo na Zemi
 
-Kubík Hampl
+Kubík Hampl aka [chamik](https://github.com/chamik)
 
 ### Rychlé shrnutí
 
