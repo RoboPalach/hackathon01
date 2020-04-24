@@ -10,7 +10,7 @@ Klávesnice 4x4 pro zadání čísel HEX soustavy.
 
 ### Popis zneškodnění
 V návodu je (zatím není) uvedeno pro konkrétní sériové číslo potřebné heslo, které je potřeba pro pokračování odjišťování bomby.
-Čas, kdy zadat heslo je dán posloupností odjišťování bomby. Na bobě není nijak signalizováno.
+Čas, kdy zadat heslo je dán posloupností odjišťování bomby. Na bombě není nijak signalizováno.
 
 #### Příklady
 | Výrobní číslo | Číslo kroku kdy zadat | Co zadat |
