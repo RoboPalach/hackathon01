@@ -13,7 +13,7 @@ V návodu je (zatím není) uvedeno pro konkrétní výrovní číslo potřebné
 Čas, kdy zadat heslo je dán posloupností odjišťování bomby. Na bobě není nijak signalizováno.
 
 #### Příklady
-| Výrobní číslo | číslo kroku kdy zadat | co zadat |
+| Výrobní číslo | Číslo kroku kdy zadat | Co zadat |
 | -------- | -------- | -------- |
 | 0000 | 1 | 65 535 |
 | 0000 | 6 | 48 832 |
