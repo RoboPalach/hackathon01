@@ -1,8 +1,8 @@
-# <jmeno modulu>
+# jmeno modulu
 
 **jmeno autora**
 
-### Rychlé schrnutí
+### Rychlé shrnutí
 
 ### Hardwarový popis
 
