@@ -1,3 +1,3 @@
 # Web folder
 
-Adresář pro web
+Adresář určený pro web.
