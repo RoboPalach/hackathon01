@@ -4,11 +4,7 @@
 
 ### Rychlé shrnutí
 
-<<<<<<< HEAD
 Pyrotechnik musí udržet hladinu "napětí" pod určenou hranicí. Hladina napětí je zobrazen na 10 místném LED baragrafu. Hranice bude stanovena v návodu. Hladina se snižuje stiskem tlačítka. Doba plného nabití je variabilní.
-=======
-Pyrotechnik musí udržet hladinu "napětí" pod určenou hranicí. Hladina napětí je zobrazena na 10-ti místném LED baragrafu. Hranice bude stanovena v návodu. Hladina se snižuje stiskem tlačítka.
->>>>>>> 64dfb365751adafffb0d089cab32b43ec868c402
 
 ### Hardwarový popis
 
