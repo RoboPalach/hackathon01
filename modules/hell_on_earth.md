@@ -1,4 +1,4 @@
-# Peklo na zemi
+# Peklo na Zemi
 
 Kubík Hampl
 
