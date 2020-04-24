@@ -1,4 +1,4 @@
-# <jmeno modulu>
+# jmeno modulu
 
 **jmeno autora**
 
